@@ -11,4 +11,4 @@ spec:
     git:
       url: https://github.com/omocquais-p/tanzu-java-web-app-poc
       ref:
-        branch: main
+        branch: master
